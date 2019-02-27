@@ -102,8 +102,8 @@ background(0);
   score++;
   xPos = random(15, windowWidth-15);
   yPos = random(15, windowHeight-15);
-  ySpeed = ySpeed * 1.2;
-  xSpeed = xSpeed * 1.2;
+  ySpeed = ySpeed * 1.4;
+  xSpeed = xSpeed * 1.4;
 }
 print(ySpeed);
 
